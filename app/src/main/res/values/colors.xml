@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="topBarText">#ffffff</color>
+    <color name="divider">#c7c7c7</color>
+    <color name="log_in">#46000000</color>
+    <color name="common_text_sel">#3aa3ee</color>
+    <color name="quality_focused_color">#448cf3</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="leavemessage_gray">#888888</color>
+    <color name="a1_blue_color">#1ea1ff</color>
+    <color name="blue_bg">#344173</color>
+    <color name="white">#ffffff</color>
+    <color name="play_translucent_bg">#c0000000</color>
+    <color name="remotelist_item_duration_text_color">#c6c6c6</color>
+    <color name="trans_bg_color">#c0ffffff</color>
+    <color name="preview_quality_color">#3eaefa</color>
+    <color name="message_bg">#fff</color>
+    <color name="common_line">#c8c7cc</color>
+    <color name="common_bg">#f0f0f3</color>
+    <color name="black_bg">#000000</color>
+    <color name="dark_bg_70p">#bb000000</color>
+    <color name="black">#333333</color>
+    <color name="auto_blue_text">#2554bd</color>
+</resources>
